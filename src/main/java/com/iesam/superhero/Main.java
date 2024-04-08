@@ -8,7 +8,7 @@ import java.io.IOException;
 import java.util.List;
 
 public class Main {
-
+    //Esta es la versión completa del ejercicio del jueves que no vine
 
     public static void main(String[] args) {
         getAllSuperHeroes();
